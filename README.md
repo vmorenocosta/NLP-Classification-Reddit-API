@@ -2,7 +2,7 @@
 
 # Problem Statement
 
-We have been contracted by a divorce lawyer who is trying to improve targeted advertisement of her services. She usually uses keywords such as XX and XX to target her advertisements, but she has been receiving feedback that her ads are also being shown to engaged couples and newlyweds. She would like us to develop a model for classifying wedding planning vs divorce posts that she could bring to advertisers to potentially incorporate in her next advertisement campaign.
+We have been contracted by a divorce lawyer who is trying to improve targeted advertisement of her services. She usually uses keywords such as XX and XX to target her advertisements, but she has been receiving feedback that her ads are also being shown to engaged couples and newlyweds. She would like us to develop a model for classifying wedding planning vs divorce posts that she could bring to advertisers to potentially incorporate in her next advertisement campaign. Her goal is to try to advertise to as many potential divorce clients as possible but avoid as many wedding planners so that she doesn't turn off potential future clients.
 
 ### Description
 
