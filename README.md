@@ -61,8 +61,8 @@ project-3
 
 The production model is ready to be deployed as a model to separate out wedding planning posts from divorce posts.
 
-The production model is works on r/WeddingPlanning and r/Divorce posts with 97.4% accuracy. This ensures the lawyer will not waste precious advertising dollars on wedding planners and potentially annoy the wedding planners, who might eventually become clients in a few years.
+The production model works on r/WeddingPlanning and r/Divorce posts with 97.4% accuracy. The model will filter out wedding posts 95.7% of the time. This ensures the lawyer will not waste precious advertising dollars on wedding planners and potentially annoy the wedding planners, who might eventually become clients in a few years.
 
 Additionally, the model correctly classifies divorce posts 99% of the time, so the lawyer is advertising to 99% of the potential clients, only missing 1%.
 
-The next steps for the lawyer would be to share this technical report with her advertising coordinators/partners so they can implement this modeling pipeline to filter out wedding planning related posts. The advertising partners may wish to collect more data to further improve the model and focus in on key coefficients that seem to be overly low/high even though the word appears frequently in both divorce and wedding planning posts.
+The next steps for the lawyer would be to share this technical report with her advertising coordinators/partners so they can implement this modeling pipeline to filter out wedding planning related posts. The advertising partners may wish to collect more data to further improve the model and focus in on key coefficients that seem to be overly low/high even though the word appears frequently in both divorce and wedding planning posts. The advertising partners may also want to evaluate how well this model works on other types of social media posts, such as Facebook and Twitter.
