@@ -1,4 +1,4 @@
-# Project 3 - Classifying posts from two subreddits, r/WeddingPlanning and r/Divorce
+# Classifying posts from two subreddits, r/WeddingPlanning and r/Divorce
 
 ## Problem Statement
 
